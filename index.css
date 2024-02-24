@@ -31,6 +31,7 @@ body {
   min-height: 100vh;
   line-height: 1.5;
   font-family: 'Inter', sans-serif;
+  margin: unset;
 }
 
 /* Set shorter line heights on headings and interactive elements */
