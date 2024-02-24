@@ -52,6 +52,6 @@ A quick recap of
 
 ## Author
 
-- Website - [Sriram Balasubramanian](https:/sriram-23.web.app)
+- Website - [Sriram Balasubramanian](https://sriram-23.web.app)
 - Frontend Mentor - [@sriram23](https://www.frontendmentor.io/profile/sriram23)
 - Twitter - [@imsriramb](https://www.twitter.com/imsriramb)
