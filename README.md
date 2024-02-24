@@ -25,14 +25,17 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop View
+<img width="719" alt="image" src="https://github.com/sriram23/Social-Link-Profile-Frontend-Mentor/assets/18396996/0ba30048-be77-4570-9d26-fe44f303df95">
+<img width="720" alt="image" src="https://github.com/sriram23/Social-Link-Profile-Frontend-Mentor/assets/18396996/f394acd9-98e2-4de3-8839-678d363e9ff4">
 
 #### Mobile View
-
+<img width="213" alt="image" src="https://github.com/sriram23/Social-Link-Profile-Frontend-Mentor/assets/18396996/223ce96a-875c-4482-a223-6ddd8a630749">
+<img width="212" alt="image" src="https://github.com/sriram23/Social-Link-Profile-Frontend-Mentor/assets/18396996/49eb5340-2532-46bb-b5c6-8c24a41b488e">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/sriram23/Social-Link-Profile-Frontend-Mentor)
+- Live Site URL: [Live site URL](https://sriram23.github.io/Social-Link-Profile-Frontend-Mentor/)
 
 ## My process
 
